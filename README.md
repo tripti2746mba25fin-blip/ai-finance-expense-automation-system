@@ -88,20 +88,20 @@ Finance-Automation-Project/
 ### 2. Google Sheet Data Capture
 
 
-![Google Sheet]("C:\Users\Lenovo\Desktop\Finance_Project\google_sheet.png")
+![Google Sheet](google_sheet.png)
 
 ---
 
 ### 3. n8n Workflow Architecture
 
-![n8n Workflow]("C:\Users\Lenovo\Desktop\Finance_Project\n8n_architecture.png")
+![n8n Workflow](n8n_architecture.png)
 
 
 ---
 
 ### 4. Email Notification Output
 
-![Email Notification]("C:\Users\Lenovo\Desktop\Finance_Project\email_output.png"
+![Email Notification](email_output.png
 )
 
 ---
