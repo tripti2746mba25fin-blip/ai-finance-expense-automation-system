@@ -80,7 +80,7 @@ Finance-Automation-Project/
 
 ### 1. Google Form Interface
 
-![Google Form]("C:\Users\Lenovo\Desktop\Finance_Project\google_form.png"
+![Google Form](google_form.png
 )
 
 ---
