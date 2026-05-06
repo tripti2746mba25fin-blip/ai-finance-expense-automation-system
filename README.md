@@ -80,25 +80,29 @@ Finance-Automation-Project/
 
 ### 1. Google Form Interface
 
-"C:\Users\Lenovo\Desktop\Finance_Project\google_form.png"
+![Google Form]("C:\Users\Lenovo\Desktop\Finance_Project\google_form.png"
+)
 
 ---
 
 ### 2. Google Sheet Data Capture
 
-"C:\Users\Lenovo\Desktop\Finance_Project\google_sheet.png"
+
+![Google Sheet]("C:\Users\Lenovo\Desktop\Finance_Project\google_sheet.png")
 
 ---
 
 ### 3. n8n Workflow Architecture
 
-"C:\Users\Lenovo\Desktop\Finance_Project\n8n_architecture.png"
+![n8n Workflow]("C:\Users\Lenovo\Desktop\Finance_Project\n8n_architecture.png")
+
 
 ---
 
 ### 4. Email Notification Output
 
-"C:\Users\Lenovo\Desktop\Finance_Project\email_output.png"
+![Email Notification]("C:\Users\Lenovo\Desktop\Finance_Project\email_output.png"
+)
 
 ---
 
